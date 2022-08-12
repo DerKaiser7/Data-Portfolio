@@ -1,0 +1,6 @@
+tweets_data.csv filter=lfs diff=lfs merge=lfs -text
+model.w2v filter=lfs diff=lfs merge=lfs -text
+model.h5 filter=lfs diff=lfs merge=lfs -text
+/NLP/results/model.h5 filter=lfs diff=lfs merge=lfs -text
+/NLP/results/model.w2v filter=lfs diff=lfs merge=lfs -text
+/NLP/tweets_data.csv filter=lfs diff=lfs merge=lfs -text
